@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378102593715982734/9cdcb3ec34044b0088c32fe8a81f4461/artifacts
+end_time: 1712506670116
+entry_point_name: ''
+experiment_id: '378102593715982734'
+lifecycle_stage: active
+run_id: 9cdcb3ec34044b0088c32fe8a81f4461
+run_name: stroke_classifier_ver1.0
+run_uuid: 9cdcb3ec34044b0088c32fe8a81f4461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712506667635
+status: 3
+tags: []
+user_id: mimi

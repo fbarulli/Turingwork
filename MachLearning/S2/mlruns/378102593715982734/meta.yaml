@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/378102593715982734
+creation_time: 1712506667624
+experiment_id: '378102593715982734'
+last_update_time: 1712506667624
+lifecycle_stage: active
+name: stroke_classifier
